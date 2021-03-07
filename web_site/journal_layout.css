@@ -1,0 +1,54 @@
+.container
+{
+	border: 10px white solid;
+	margin: 15%;
+	background-color: white;
+	overflow: hidden;
+
+}
+.topbar
+{
+	background-color: #A8F0F0;
+	text-align: right;
+}
+.subtitle
+{
+	margin: 5px;
+	font-size: 14px
+}
+
+.mainbar
+{
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	width: 77%;
+	padding: 5px;
+	margin-top: 10px;
+	float: right;
+}
+#date
+{
+	border-bottom: 2px #009097 dashed;
+	width: 10%;
+}
+#date1
+{
+	border-bottom: 2px #009097 dashed;
+	width: 10%;
+}
+.leftbar
+{
+	border: 5px #009097 solid;
+	background-color: #A8F0F0;
+	width: 18%;
+	padding: 5px;
+	margin-top: 10px;
+	float: left;
+}
+
+.images
+{
+	margin-left: 15%;
+	margin-top: -13%;
+	float: left;
+}
